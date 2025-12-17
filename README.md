@@ -1,9 +1,3 @@
-Perfect — below is a **fully polished, GitHub-SEO optimized README**, plus **resume/LinkedIn descriptions**, **badges**, and a **clear architecture diagram description**.
-This version is **recruiter-ready**, **ATS-friendly**, and optimized for **GitHub search & visibility**.
-
----
-
-```md
 # 🎬 SmartRec — Intelligent Movie Recommendation System
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red)
@@ -37,7 +31,6 @@ It learns user preferences from historical interaction data and generates **rank
 SmartRec follows a **modular end-to-end recommendation pipeline**:
 
 ### 🔹 Architecture Flow
-```
 
 User Interaction (Streamlit UI)
 ↓
@@ -52,8 +45,6 @@ k-NN Collaborative Filtering Model
 Prediction of Unseen Movies
 ↓
 Top-N Ranked Recommendations
-
-```
 
 ### 🔹 Component Breakdown
 
@@ -143,8 +134,6 @@ Top-N Ranked Recommendations
 
 ## 📁 Project Structure
 
-```
-
 SmartRec-Recommendation-System/
 │
 ├── data/
@@ -166,9 +155,6 @@ SmartRec-Recommendation-System/
 ├── requirements.txt
 └── README.md
 
-```
-
----
 
 ## 👨‍💻 Author
 
@@ -177,46 +163,6 @@ Developed as a **machine learning portfolio project** demonstrating:
 - Collaborative filtering algorithms
 - Model evaluation techniques
 - End-to-end ML deployment using Streamlit
-```
 
----
 
-# 🧠 Resume Version (Short & ATS-Friendly)
-
-**SmartRec — Movie Recommendation System**
-
-* Built a **collaborative filtering-based recommendation system** using user-item interaction data.
-* Implemented **User-Based and Item-Based k-NN models** with cosine similarity.
-* Achieved **Precision@5 ≈ 0.40** on unseen test data.
-* Designed an **interactive Streamlit web application** for real-time recommendations.
-* Used **MovieLens 100K dataset**, Pandas, NumPy, and Scikit-learn.
-
----
-
-# 🔗 LinkedIn Project Description
-
-🎬 **SmartRec | Intelligent Movie Recommendation System**
-
-Built a production-ready **machine learning recommendation system** using **collaborative filtering** techniques.
-The system learns user preferences from historical movie ratings and delivers **personalized Top-N recommendations** through an interactive Streamlit web app.
-
-🔹 User-Based & Item-Based CF
-🔹 k-NN + Cosine Similarity
-🔹 Precision@K evaluation
-🔹 Deployed as a live web application
-
-📌 Tech: Python, Pandas, NumPy, Scikit-learn, Streamlit
-📊 Dataset: MovieLens 100K
-
----
-
-If you want next:
-
-* 🧩 **Architecture diagram image**
-* 📈 **Project screenshots section**
-* 🧪 **Evaluation results table**
-* 📌 **GitHub topics & repo description**
-* 💼 **Cover letter project explanation**
-
-Just tell me 🚀
 
