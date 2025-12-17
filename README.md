@@ -1,4 +1,4 @@
-```
+```md
 # 🎬 SmartRec — Intelligent Movie Recommendation System
 
 🔗 **Live Application**  
@@ -143,5 +143,6 @@ SmartRec-Recommendation-System/
 
 Developed as a professional Machine Learning portfolio project to demonstrate end-to-end design, evaluation, and deployment of recommendation systems using collaborative filtering.
 ```
+
 
 
