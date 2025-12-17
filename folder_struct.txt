@@ -1,0 +1,20 @@
+SmartRec-Recommendation-System/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── EDA.ipynb
+│
+├── src/
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   ├── collaborative_filtering.py
+│   ├── evaluation.py
+│   └── recommender.py
+│
+├── app.py                  # Streamlit app
+├── requirements.txt
+├── README.md
+└── .gitignore
